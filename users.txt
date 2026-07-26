@@ -1,0 +1,5 @@
+user_id|username|password_hash|email|role|balance|risk_preference
+USR-ADMIN01|admin|240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9|admin@stockvision.ai|admin|0.00|Medium
+USR-INV001|john_investor|4f841b0d8d0c53395802c1588be3b15c0f26336a019b93a98a03bce1ad693d8e|john@example.com|investor|9804.50|Medium
+USR-INV002|sarah_trader|4f841b0d8d0c53395802c1588be3b15c0f26336a019b93a98a03bce1ad693d8e|sarah@example.com|investor|25000.00|High
+USR-0DDAC3|balaji|8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92|balajikolla2003@gmail.com|investor|399.00|Low

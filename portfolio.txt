@@ -1,0 +1,4 @@
+user_id|ticker|quantity|avg_buy_price
+USR-INV002|MSFT|20|410.00
+USR-INV001|AAPL|11|189.25
+USR-INV001|NVDA|15|115.00

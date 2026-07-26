@@ -1,0 +1,8 @@
+ticker|company_name|price|sector|available_quantity|risk_level|gainer_pct
+AAPL|Apple Inc.|195.50|Tech|4999|Medium|2.45
+MSFT|Microsoft Corp.|420.10|Tech|3000|Low|1.80
+NVDA|NVIDIA Corporation|125.75|Tech|8000|High|5.60
+AMZN|Amazon.com Inc.|185.30|Consumer Cyclical|4000|Medium|-0.75
+GOOGL|Alphabet Inc.|175.20|Tech|4500|Medium|1.15
+JPM|JPMorgan Chase & Co.|205.80|Finance|3500|Low|0.40
+TSLA|Tesla Inc.|240.50|Automotive|6000|High|4.20
